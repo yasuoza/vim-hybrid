@@ -126,7 +126,7 @@ else
     let s:blue       = "12"   " LightBlue
     let s:purple     = "13"   " LightMagenta
   elseif g:hybrid_use_iTerm_colors == 1
-    let s:background = "NONE"
+    let s:background = "8"
     let s:foreground = "7"
     let s:selection  = "0" 
     let s:line       = "0" 
